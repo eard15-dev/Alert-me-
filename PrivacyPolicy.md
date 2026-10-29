@@ -27,6 +27,15 @@
 <h2>Notifications</h2>
 <p>Alert Me! uses Apple's local notification system to remind you of upcoming or overdue tasks. Notifications are scheduled and delivered entirely on-device via iOS. No notification content is sent to any external server.</p>
 
+<h2>Photos</h2>
+<p>The photos that you attach in Alert Me! are stored only on your device and are not uploaded or shared anywhere else.</p>
+
+<h2>Apple Watch</h2>
+<p>Reminder titles and times are shared only with your Apple Watch and never leave your devices.</p>
+
+<h2>History</h2>
+<p>Reminder history is only kept on your device for 30 days and are not uploaded or shared anywhere else. After 30 days, reminders will automatically be permanently deleted.</p>
+
 <h2>Third-Party Services</h2>
 <p>Alert Me! does not integrate with any third-party analytics, advertising, or data-processing services.</p>
 
