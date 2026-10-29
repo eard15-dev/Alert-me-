@@ -31,7 +31,7 @@
 <p>Alert Me! does not integrate with any third-party analytics, advertising, or data-processing services.</p>
 
 <h2>Children's Privacy</h2>
-<p>Alert Me! does not knowingly collect any information from anyone, including children, because it does not collect information at all.</p>
+<p>Alert Me! does not knowingly collect any information from anyone, including children, because it does not collect personal information at all, other than optional temporary location services.</p>
 
 <h2>Changes to This Policy</h2>
 <p>If this policy changes, the updated version will be posted at this same address with a revised "last updated" date.</p>
