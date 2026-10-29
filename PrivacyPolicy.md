@@ -9,9 +9,9 @@
 <h2>Location</h2>
 <p>Alert Me! can remind you when you arrive at or leave a place you choose. This is optional, and the app only asks for location access when you add a place to a reminder.</p>
 <ul>
-  <li>What we use: The place you pick (its name and coordinates, from a search or from your current location, if you tap "Use my current location") and, while the feature is on, your device's location so iOS can tell when you arrive at or leave that place.</li>
+  <li>What we use: The place you pick (its name and coordinates, from a search or from your current location, if you tap "Use my current location") and while the feature is on, it will temporarily store your device's location so iOS can tell when you arrive at or leave that place.</li>
   <li>Where it's processed: Your location is handled on your device by iOS. Alert Me! does not collect your location, send it to our servers, or share it with anyone, and we don't track your movements or build a location history.</li>
-  <li>Where it's stored: The places you choose are saved with your reminders on your device. If you have iCloud sync turned on, they sync through your own iCloud account like the rest of your reminders. We can't see them.</li>
+  <li>Where it's stored: The places you choose are saved with your reminders on your device. If you have iCloud sync turned on, they sync through your own iCloud account like the rest of your reminders, so we can't see them.</li>
   <li>Place search: When you search for a place or address, the text you type is sent to Apple Maps to find matching places. Apple handles that data under Apple's Privacy Policy.</li>
   <li>Your control: You can remove a place from a reminder, delete the reminder, or turn off location access for Alert Me! at any time in Settings > Privacy & Security > Location Services.</li>
 </ul>
